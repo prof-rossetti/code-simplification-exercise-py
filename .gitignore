@@ -1,0 +1,3 @@
+
+# ignore all text files in the receipts dir:
+receipts/*.txt
