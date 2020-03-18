@@ -10,8 +10,7 @@ selected_products = [
     {"id":3, "name": "Robust Golden Unsweetened Oolong Tea", "department": "beverages", "aisle": "tea", "price": 2.49},
     {"id":2, "name": "All-Seasons Salt", "department": "pantry", "aisle": "spices seasonings", "price": 4.99},
     {"id":1, "name": "Chocolate Sandwich Cookies", "department": "snacks", "aisle": "cookies cakes", "price": 3.50},
-
-] # based on data from Instacart: https://www.instacart.com/datasets/grocery-shopping-2017
+] # FYI: for the purposes of this exercise, you won't need to modify this list at all
 
 now = datetime.now()
 
